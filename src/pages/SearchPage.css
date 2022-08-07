@@ -1,0 +1,9 @@
+@media (max-width:700px) {
+   
+    .searchPage__navbar-left>ul,.searchPage__navbar-right>ul{
+        gap: 0;
+    }
+    .searchPage_results{
+        padding: 0 4rem;
+    }
+}
